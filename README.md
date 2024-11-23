@@ -1,2 +1,0 @@
-# .github
-datos de github
